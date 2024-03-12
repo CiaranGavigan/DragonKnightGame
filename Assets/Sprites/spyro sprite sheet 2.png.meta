@@ -1,0 +1,5364 @@
+fileFormatVersion: 2
+guid: 9209117a7e7c4be49bfa15d64319da29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4963332918558710802
+    second: spyro sprite sheet 2_0
+  - first:
+      213: 55946299699984894
+    second: spyro sprite sheet 2_1
+  - first:
+      213: 3672960053570749962
+    second: spyro sprite sheet 2_2
+  - first:
+      213: 1044964199042931841
+    second: spyro sprite sheet 2_3
+  - first:
+      213: -5368442363248297038
+    second: spyro sprite sheet 2_4
+  - first:
+      213: 680807267848298747
+    second: spyro sprite sheet 2_5
+  - first:
+      213: 4439361547723951461
+    second: spyro sprite sheet 2_6
+  - first:
+      213: 7854581079420341998
+    second: spyro sprite sheet 2_7
+  - first:
+      213: 5029188024890025728
+    second: spyro sprite sheet 2_8
+  - first:
+      213: 767739130659961275
+    second: spyro sprite sheet 2_9
+  - first:
+      213: -6204410613126472546
+    second: spyro sprite sheet 2_10
+  - first:
+      213: -5905801167157355620
+    second: spyro sprite sheet 2_11
+  - first:
+      213: -942787136141636064
+    second: spyro sprite sheet 2_12
+  - first:
+      213: 3493205974881722341
+    second: spyro sprite sheet 2_13
+  - first:
+      213: 8690202228569618432
+    second: spyro sprite sheet 2_14
+  - first:
+      213: -4626120115744482486
+    second: spyro sprite sheet 2_15
+  - first:
+      213: 3415315719998041839
+    second: spyro sprite sheet 2_16
+  - first:
+      213: 4327201945158757146
+    second: spyro sprite sheet 2_17
+  - first:
+      213: 6284612789602063012
+    second: spyro sprite sheet 2_18
+  - first:
+      213: 4873371101194891601
+    second: spyro sprite sheet 2_19
+  - first:
+      213: 5225647262718071153
+    second: spyro sprite sheet 2_20
+  - first:
+      213: 5130815901277418244
+    second: spyro sprite sheet 2_21
+  - first:
+      213: 6221425870660705025
+    second: spyro sprite sheet 2_22
+  - first:
+      213: -8741041885310333099
+    second: spyro sprite sheet 2_23
+  - first:
+      213: 8076757141825549665
+    second: spyro sprite sheet 2_24
+  - first:
+      213: 5441278180530936489
+    second: spyro sprite sheet 2_25
+  - first:
+      213: 316631620876589325
+    second: spyro sprite sheet 2_26
+  - first:
+      213: -9113568383144923581
+    second: spyro sprite sheet 2_27
+  - first:
+      213: 4181743686335706617
+    second: spyro sprite sheet 2_28
+  - first:
+      213: -8805689498309588055
+    second: spyro sprite sheet 2_29
+  - first:
+      213: -8178465437759032660
+    second: spyro sprite sheet 2_30
+  - first:
+      213: -5851091183039170325
+    second: spyro sprite sheet 2_31
+  - first:
+      213: -5727686655704728628
+    second: spyro sprite sheet 2_32
+  - first:
+      213: 744537035798773121
+    second: spyro sprite sheet 2_33
+  - first:
+      213: -7459372845741604844
+    second: spyro sprite sheet 2_34
+  - first:
+      213: -8835553810127513384
+    second: spyro sprite sheet 2_35
+  - first:
+      213: -9100623488246383425
+    second: spyro sprite sheet 2_36
+  - first:
+      213: 4845098216688701141
+    second: spyro sprite sheet 2_37
+  - first:
+      213: -2614138855676621380
+    second: spyro sprite sheet 2_38
+  - first:
+      213: 1500684885624702043
+    second: spyro sprite sheet 2_39
+  - first:
+      213: 7551217225378864955
+    second: spyro sprite sheet 2_40
+  - first:
+      213: 2895667119757276292
+    second: spyro sprite sheet 2_41
+  - first:
+      213: 1321122808644988615
+    second: spyro sprite sheet 2_42
+  - first:
+      213: 7526715667736857935
+    second: spyro sprite sheet 2_43
+  - first:
+      213: -2735204797433747833
+    second: spyro sprite sheet 2_44
+  - first:
+      213: 4238511603925325541
+    second: spyro sprite sheet 2_45
+  - first:
+      213: 4248564518429642812
+    second: spyro sprite sheet 2_46
+  - first:
+      213: -3000726767665092925
+    second: spyro sprite sheet 2_47
+  - first:
+      213: 2133892242691349015
+    second: spyro sprite sheet 2_48
+  - first:
+      213: 5449600564934650694
+    second: spyro sprite sheet 2_49
+  - first:
+      213: -2219045346651031631
+    second: spyro sprite sheet 2_50
+  - first:
+      213: -7723280403974539481
+    second: spyro sprite sheet 2_51
+  - first:
+      213: -3094822067394793219
+    second: spyro sprite sheet 2_52
+  - first:
+      213: -3716632424066127326
+    second: spyro sprite sheet 2_53
+  - first:
+      213: 8258077489540144491
+    second: spyro sprite sheet 2_54
+  - first:
+      213: -2175665838578708249
+    second: spyro sprite sheet 2_55
+  - first:
+      213: 7993081718547015195
+    second: spyro sprite sheet 2_56
+  - first:
+      213: -5792822460697834116
+    second: spyro sprite sheet 2_57
+  - first:
+      213: -4615268714110553222
+    second: spyro sprite sheet 2_58
+  - first:
+      213: 7510631391317097504
+    second: spyro sprite sheet 2_59
+  - first:
+      213: 2032515426615706817
+    second: spyro sprite sheet 2_60
+  - first:
+      213: 1209843903431619980
+    second: spyro sprite sheet 2_61
+  - first:
+      213: 3691609015929025946
+    second: spyro sprite sheet 2_62
+  - first:
+      213: -7599487818141414937
+    second: spyro sprite sheet 2_63
+  - first:
+      213: -5777050437324307034
+    second: spyro sprite sheet 2_64
+  - first:
+      213: -7359062508628922331
+    second: spyro sprite sheet 2_65
+  - first:
+      213: 4114278501236972206
+    second: spyro sprite sheet 2_66
+  - first:
+      213: -7324409280790349627
+    second: spyro sprite sheet 2_67
+  - first:
+      213: -8276667922957345898
+    second: spyro sprite sheet 2_68
+  - first:
+      213: 4742831238606483309
+    second: spyro sprite sheet 2_69
+  - first:
+      213: 8092179265438151616
+    second: spyro sprite sheet 2_70
+  - first:
+      213: 4330726384649683795
+    second: spyro sprite sheet 2_71
+  - first:
+      213: 3334398214380108722
+    second: spyro sprite sheet 2_72
+  - first:
+      213: -6670721458326687252
+    second: spyro sprite sheet 2_73
+  - first:
+      213: -5002578323401494941
+    second: spyro sprite sheet 2_74
+  - first:
+      213: -731212463507296012
+    second: spyro sprite sheet 2_75
+  - first:
+      213: 6691856806712590679
+    second: spyro sprite sheet 2_76
+  - first:
+      213: 8546277740403902759
+    second: spyro sprite sheet 2_77
+  - first:
+      213: 6709139488492490854
+    second: spyro sprite sheet 2_78
+  - first:
+      213: -3980426478961568800
+    second: spyro sprite sheet 2_79
+  - first:
+      213: -8972561704005789382
+    second: spyro sprite sheet 2_80
+  - first:
+      213: -6366261930540977187
+    second: spyro sprite sheet 2_81
+  - first:
+      213: -1027288311462683774
+    second: spyro sprite sheet 2_82
+  - first:
+      213: -6752020422905492959
+    second: spyro sprite sheet 2_83
+  - first:
+      213: 795722314334866580
+    second: spyro sprite sheet 2_84
+  - first:
+      213: -6034994267526753708
+    second: spyro sprite sheet 2_85
+  - first:
+      213: -4664158588789529722
+    second: spyro sprite sheet 2_86
+  - first:
+      213: 5142906304574828326
+    second: spyro sprite sheet 2_87
+  - first:
+      213: 6487703707007502983
+    second: spyro sprite sheet 2_88
+  - first:
+      213: 2222618749925860345
+    second: spyro sprite sheet 2_89
+  - first:
+      213: 5659151150089221511
+    second: spyro sprite sheet 2_90
+  - first:
+      213: 7664028078699323283
+    second: spyro sprite sheet 2_91
+  - first:
+      213: -7167297676196138472
+    second: spyro sprite sheet 2_92
+  - first:
+      213: -6926537836680777278
+    second: spyro sprite sheet 2_93
+  - first:
+      213: 2304769849248255835
+    second: spyro sprite sheet 2_94
+  - first:
+      213: -4099889254314574627
+    second: spyro sprite sheet 2_95
+  - first:
+      213: -8322188674997032609
+    second: spyro sprite sheet 2_96
+  - first:
+      213: -1403048886498178041
+    second: spyro sprite sheet 2_97
+  - first:
+      213: 1939430576496803750
+    second: spyro sprite sheet 2_98
+  - first:
+      213: 7998572628777390701
+    second: spyro sprite sheet 2_99
+  - first:
+      213: -1578784537350829422
+    second: spyro sprite sheet 2_100
+  - first:
+      213: -7885942307571424739
+    second: spyro sprite sheet 2_101
+  - first:
+      213: 5060748770780073221
+    second: spyro sprite sheet 2_102
+  - first:
+      213: 7730806120851455047
+    second: spyro sprite sheet 2_103
+  - first:
+      213: -2057216721279145288
+    second: spyro sprite sheet 2_104
+  - first:
+      213: -8601263274720585829
+    second: spyro sprite sheet 2_105
+  - first:
+      213: -3918803999477088290
+    second: spyro sprite sheet 2_106
+  - first:
+      213: -5944414124134692340
+    second: spyro sprite sheet 2_107
+  - first:
+      213: 1735151198249472330
+    second: spyro sprite sheet 2_108
+  - first:
+      213: -5288956748701595166
+    second: spyro sprite sheet 2_109
+  - first:
+      213: -2833316867294742012
+    second: spyro sprite sheet 2_110
+  - first:
+      213: 7981969038105986135
+    second: spyro sprite sheet 2_111
+  - first:
+      213: 3566880071120543079
+    second: spyro sprite sheet 2_112
+  - first:
+      213: 8043022222512760227
+    second: spyro sprite sheet 2_113
+  - first:
+      213: -1891693437475799389
+    second: spyro sprite sheet 2_114
+  - first:
+      213: 5664284957524822934
+    second: spyro sprite sheet 2_115
+  - first:
+      213: 3417875460770226560
+    second: spyro sprite sheet 2_116
+  - first:
+      213: 4660839696655902839
+    second: spyro sprite sheet 2_117
+  - first:
+      213: 1031084162551422927
+    second: spyro sprite sheet 2_118
+  - first:
+      213: -3015490604024639943
+    second: spyro sprite sheet 2_119
+  - first:
+      213: -6068298225239720802
+    second: spyro sprite sheet 2_120
+  - first:
+      213: 1562873590387547110
+    second: spyro sprite sheet 2_121
+  - first:
+      213: 5289678741458928350
+    second: spyro sprite sheet 2_122
+  - first:
+      213: 3393891289042473648
+    second: spyro sprite sheet 2_123
+  - first:
+      213: 7325606110451482266
+    second: spyro sprite sheet 2_124
+  - first:
+      213: -5801992692334013671
+    second: spyro sprite sheet 2_125
+  - first:
+      213: -5814652908912049235
+    second: spyro sprite sheet 2_126
+  - first:
+      213: -2095090053419206006
+    second: spyro sprite sheet 2_127
+  - first:
+      213: -7587708681658638776
+    second: spyro sprite sheet 2_128
+  - first:
+      213: 9085120531966875437
+    second: spyro sprite sheet 2_129
+  - first:
+      213: -3395070148534355341
+    second: spyro sprite sheet 2_130
+  - first:
+      213: -1240241758567467805
+    second: spyro sprite sheet 2_131
+  - first:
+      213: -1477566251948909934
+    second: spyro sprite sheet 2_132
+  - first:
+      213: -5126931292615514654
+    second: spyro sprite sheet 2_133
+  - first:
+      213: -1499745598605503577
+    second: spyro sprite sheet 2_134
+  - first:
+      213: 5859866779567258279
+    second: spyro sprite sheet 2_135
+  - first:
+      213: 3367132195315878671
+    second: spyro sprite sheet 2_136
+  - first:
+      213: -6127956884140097160
+    second: spyro sprite sheet 2_137
+  - first:
+      213: -1660899405386611631
+    second: spyro sprite sheet 2_138
+  - first:
+      213: 8790760726029766235
+    second: spyro sprite sheet 2_139
+  - first:
+      213: 5353312712460406642
+    second: spyro sprite sheet 2_140
+  - first:
+      213: 9148156934071355421
+    second: spyro sprite sheet 2_141
+  - first:
+      213: -6711936692090771740
+    second: spyro sprite sheet 2_142
+  - first:
+      213: 3267777467573939620
+    second: spyro sprite sheet 2_143
+  - first:
+      213: -74400641770951736
+    second: spyro sprite sheet 2_144
+  - first:
+      213: 6604557924096687515
+    second: spyro sprite sheet 2_145
+  - first:
+      213: 7584475297832211843
+    second: spyro sprite sheet 2_146
+  - first:
+      213: -3533973124802678861
+    second: spyro sprite sheet 2_147
+  - first:
+      213: 5519582583970796134
+    second: spyro sprite sheet 2_148
+  - first:
+      213: 233493122254359065
+    second: spyro sprite sheet 2_149
+  - first:
+      213: -1651093325558312174
+    second: spyro sprite sheet 2_150
+  - first:
+      213: -4656317345958436573
+    second: spyro sprite sheet 2_151
+  - first:
+      213: 6100352376963225858
+    second: spyro sprite sheet 2_152
+  - first:
+      213: -8607565918712362347
+    second: spyro sprite sheet 2_153
+  - first:
+      213: 5877875223920150895
+    second: spyro sprite sheet 2_154
+  - first:
+      213: 7363612236405581478
+    second: spyro sprite sheet 2_155
+  - first:
+      213: -4285769542184278534
+    second: spyro sprite sheet 2_156
+  - first:
+      213: -6297686222947220213
+    second: spyro sprite sheet 2_157
+  - first:
+      213: -3471730412173192291
+    second: spyro sprite sheet 2_158
+  - first:
+      213: -7882251600165449040
+    second: spyro sprite sheet 2_159
+  - first:
+      213: -1764248438650699529
+    second: spyro sprite sheet 2_160
+  - first:
+      213: 2879612682885273757
+    second: spyro sprite sheet 2_161
+  - first:
+      213: -4294939659600254377
+    second: spyro sprite sheet 2_162
+  - first:
+      213: -6069197142346418592
+    second: spyro sprite sheet 2_163
+  - first:
+      213: 6186088968416270663
+    second: spyro sprite sheet 2_164
+  - first:
+      213: 181381946865846399
+    second: spyro sprite sheet 2_165
+  - first:
+      213: -7651003238230436050
+    second: spyro sprite sheet 2_166
+  - first:
+      213: -7360242045792628634
+    second: spyro sprite sheet 2_167
+  - first:
+      213: -2390254796153765740
+    second: spyro sprite sheet 2_168
+  - first:
+      213: -3092470168229760282
+    second: spyro sprite sheet 2_169
+  - first:
+      213: -8752171965606995731
+    second: spyro sprite sheet 2_170
+  - first:
+      213: 2180122432741389264
+    second: spyro sprite sheet 2_171
+  - first:
+      213: -8393895643817751201
+    second: spyro sprite sheet 2_172
+  - first:
+      213: -4324775449636874692
+    second: spyro sprite sheet 2_173
+  - first:
+      213: 8164376809778328158
+    second: spyro sprite sheet 2_174
+  - first:
+      213: 8576061494528684627
+    second: spyro sprite sheet 2_175
+  - first:
+      213: 828024976798699269
+    second: spyro sprite sheet 2_176
+  - first:
+      213: 5821386956731341522
+    second: spyro sprite sheet 2_177
+  - first:
+      213: 2451044253844343830
+    second: spyro sprite sheet 2_178
+  - first:
+      213: -7640884355588284270
+    second: spyro sprite sheet 2_179
+  - first:
+      213: -2653605346647216538
+    second: spyro sprite sheet 2_180
+  - first:
+      213: -7236914370366897427
+    second: spyro sprite sheet 2_181
+  - first:
+      213: 6179310688651279350
+    second: spyro sprite sheet 2_182
+  - first:
+      213: 4038375705172674106
+    second: spyro sprite sheet 2_183
+  - first:
+      213: 5458021913285933839
+    second: spyro sprite sheet 2_184
+  - first:
+      213: -265339551647114760
+    second: spyro sprite sheet 2_185
+  - first:
+      213: -4009412368518867554
+    second: spyro sprite sheet 2_186
+  - first:
+      213: -8754326234387644625
+    second: spyro sprite sheet 2_187
+  - first:
+      213: -1018953278115610501
+    second: spyro sprite sheet 2_188
+  - first:
+      213: 7683661829479735310
+    second: spyro sprite sheet 2_189
+  - first:
+      213: 113567509230286974
+    second: spyro sprite sheet 2_190
+  - first:
+      213: 4645084404799510469
+    second: spyro sprite sheet 2_191
+  - first:
+      213: -4176108163697352138
+    second: spyro sprite sheet 2_192
+  - first:
+      213: 9066791764146424921
+    second: spyro sprite sheet 2_193
+  - first:
+      213: 843363980677013769
+    second: spyro sprite sheet 2_194
+  - first:
+      213: 8728265466656642399
+    second: spyro sprite sheet 2_195
+  - first:
+      213: 2813626972365412321
+    second: spyro sprite sheet 2_196
+  - first:
+      213: 8440553790506485741
+    second: spyro sprite sheet 2_197
+  - first:
+      213: 8881111430746755783
+    second: spyro sprite sheet 2_198
+  - first:
+      213: -4022676043043269332
+    second: spyro sprite sheet 2_199
+  - first:
+      213: -5031937363962773717
+    second: spyro sprite sheet 2_200
+  - first:
+      213: 330706123471534600
+    second: spyro sprite sheet 2_201
+  - first:
+      213: -5270626166366704777
+    second: spyro sprite sheet 2_202
+  - first:
+      213: -2809118425713868544
+    second: spyro sprite sheet 2_203
+  - first:
+      213: -1963374928218445471
+    second: spyro sprite sheet 2_204
+  - first:
+      213: 3730749934888703824
+    second: spyro sprite sheet 2_205
+  - first:
+      213: -4984700370409231732
+    second: spyro sprite sheet 2_206
+  - first:
+      213: -8400599701715036196
+    second: spyro sprite sheet 2_207
+  - first:
+      213: 4169301100794273398
+    second: spyro sprite sheet 2_208
+  - first:
+      213: 6890995305597054747
+    second: spyro sprite sheet 2_209
+  - first:
+      213: 8281356187266314160
+    second: spyro sprite sheet 2_210
+  - first:
+      213: 8286395673733609957
+    second: spyro sprite sheet 2_211
+  - first:
+      213: -8082382116748776899
+    second: spyro sprite sheet 2_212
+  - first:
+      213: -3153581550485304583
+    second: spyro sprite sheet 2_213
+  - first:
+      213: 3736176997284013977
+    second: spyro sprite sheet 2_214
+  - first:
+      213: -6318963508432122006
+    second: spyro sprite sheet 2_215
+  - first:
+      213: -491401601800124429
+    second: spyro sprite sheet 2_216
+  - first:
+      213: 8350868009475179785
+    second: spyro sprite sheet 2_217
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_0
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1660
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee32e47e103be1bb0800000000000000
+      internalID: -4963332918558710802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1658
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef97d18fcd2c6c000800000000000000
+      internalID: 55946299699984894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1657
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06c84365b9f8f230800000000000000
+      internalID: 3672960053570749962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1654
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c54fe0765708e00800000000000000
+      internalID: 1044964199042931841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1601
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb3d652d167f75b0800000000000000
+      internalID: -5368442363248297038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1601
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf02a906a96b27900800000000000000
+      internalID: 680807267848298747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1601
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d4d919ec7cb9d30800000000000000
+      internalID: 4439361547723951461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1601
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee8a5a50e3110d60800000000000000
+      internalID: 7854581079420341998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1601
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007e734ecd34bc540800000000000000
+      internalID: 5029188024890025728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1601
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb97723fbae87aa00800000000000000
+      internalID: 767739130659961275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1601
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cdee37b6185e9a0800000000000000
+      internalID: -6204410613126472546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1601
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b9f75f0216a0ea0800000000000000
+      internalID: -5905801167157355620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1601
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e4873481c8ae2f0800000000000000
+      internalID: -942787136141636064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1558
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efd81c835c5a7030800000000000000
+      internalID: 3493205974881722341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1554
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008333c52ecc99870800000000000000
+      internalID: 8690202228569618432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1555
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bd2c4d348bccfb0800000000000000
+      internalID: -4626120115744482486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1556
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee6a4e5d83a56f20800000000000000
+      internalID: 3415315719998041839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1552
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b219c1e3f4d0c30800000000000000
+      internalID: 4327201945158757146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1495
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a29b1be80e673750800000000000000
+      internalID: 6284612789602063012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1493
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15130614231b1a340800000000000000
+      internalID: 4873371101194891601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1491
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1719dcfaf7a358840800000000000000
+      internalID: 5225647262718071153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1489
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403f093c0e1543740800000000000000
+      internalID: 5130815901277418244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1494
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b1829edd1f65650800000000000000
+      internalID: 6221425870660705025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_23
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1491
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f4443a7b491b680800000000000000
+      internalID: -8741041885310333099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_24
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1493
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1657c97f3d7661070800000000000000
+      internalID: 8076757141825549665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1439
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa51a21dad438b40800000000000000
+      internalID: 5441278180530936489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1436
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09510718c6e46400800000000000000
+      internalID: 316631620876589325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1435
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e6a6e57d9168180800000000000000
+      internalID: -9113568383144923581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1433
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5b5c51ab9880a30800000000000000
+      internalID: 4181743686335706617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_29
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1436
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab8eda4e08ebc580800000000000000
+      internalID: -8805689498309588055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1433
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca230960401408e80800000000000000
+      internalID: -8178465437759032660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_31
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1432
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8b786c19fbccea0800000000000000
+      internalID: -5851091183039170325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1380
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb79fd455b2380b0800000000000000
+      internalID: -5727686655704728628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_33
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1381
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d78e44d70255a00800000000000000
+      internalID: 744537035798773121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1381
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41080621bebfa7890800000000000000
+      internalID: -7459372845741604844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_35
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1382
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d810895f9ec16580800000000000000
+      internalID: -8835553810127513384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_36
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1380
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc7f74972714b180800000000000000
+      internalID: -9100623488246383425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_37
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1381
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5decb9b582f3d3340800000000000000
+      internalID: 4845098216688701141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_38
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1381
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd49d1af86b8bbd0800000000000000
+      internalID: -2614138855676621380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_39
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1378
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b544577d3f083d410800000000000000
+      internalID: 1500684885624702043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1327
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f9484fe005bc860800000000000000
+      internalID: 7551217225378864955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_41
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1329
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48439ec47e97f2820800000000000000
+      internalID: 2895667119757276292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_42
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1325
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce63f1e132955210800000000000000
+      internalID: 1321122808644988615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1324
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d82d48504447860800000000000000
+      internalID: 7526715667736857935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_44
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1325
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786640d7ab99a0ad0800000000000000
+      internalID: -2735204797433747833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_45
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1326
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e61750e8d732da30800000000000000
+      internalID: 4238511603925325541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_46
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1328
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30d35e6beee5fa30800000000000000
+      internalID: 4248564518429642812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_47
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1328
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6e05147e64b56d0800000000000000
+      internalID: -3000726767665092925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1284
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a549a50bb1d9d10800000000000000
+      internalID: 2133892242691349015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1284
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ba2b037ded0ab40800000000000000
+      internalID: 5449600564934650694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_50
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1281
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7b164a30e5431e0800000000000000
+      internalID: -2219045346651031631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_51
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1231
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727bc5c646561d490800000000000000
+      internalID: -7723280403974539481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_52
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1231
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0b4ed0abbfc05d0800000000000000
+      internalID: -3094822067394793219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1232
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ae6da708edb6cc0800000000000000
+      internalID: -3716632424066127326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1232
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d90bb39b59a9270800000000000000
+      internalID: 8258077489540144491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_55
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1240
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0509d627b7ec1e0800000000000000
+      internalID: -2175665838578708249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_56
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1238
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16e9ae49712dee60800000000000000
+      internalID: 7993081718547015195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_57
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1236
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d8337e9a2cb9fa0800000000000000
+      internalID: -5792822460697834116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_58
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1237
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737778ae8543ffb0800000000000000
+      internalID: -4615268714110553222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_59
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1189
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c7a56157f1b3860800000000000000
+      internalID: 7510631391317097504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_60
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1190
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c44ee30302f43c10800000000000000
+      internalID: 2032515426615706817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_61
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1190
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85b6b1ce9a3ac010800000000000000
+      internalID: 1209843903431619980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_62
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1197
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95341c47da3b3330800000000000000
+      internalID: 3691609015929025946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1195
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9c5ccd712398690800000000000000
+      internalID: -7599487818141414937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_64
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1192
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a505c14c3bc3dfa0800000000000000
+      internalID: -5777050437324307034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_65
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1194
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520374d63ab5fd990800000000000000
+      internalID: -7359062508628922331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_66
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1153
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa914d9f7ad81930800000000000000
+      internalID: 4114278501236972206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_67
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1154
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8bae4c0987a5a90800000000000000
+      internalID: -7324409280790349627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_68
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1157
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bd140306e532d80800000000000000
+      internalID: -8276667922957345898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_69
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1159
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fe3c602ebe1d140800000000000000
+      internalID: 4742831238606483309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_70
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1157
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3f83fea223d4070800000000000000
+      internalID: 8092179265438151616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_71
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1154
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353c470a3b4d91c30800000000000000
+      internalID: 4330726384649683795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_72
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1155
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbb2d37289264e20800000000000000
+      internalID: 3334398214380108722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_73
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1114
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1bcd83d26dc63a0800000000000000
+      internalID: -6670721458326687252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1113
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ea5980585439ab0800000000000000
+      internalID: -5002578323401494941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_75
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1114
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f03f4973263ad5f0800000000000000
+      internalID: -731212463507296012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1113
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75142eb8f404edc50800000000000000
+      internalID: 6691856806712590679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_77
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1111
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7294a94235a7a9670800000000000000
+      internalID: 8546277740403902759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_78
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1110
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660142871d6ab1d50800000000000000
+      internalID: 6709139488492490854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_79
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1075
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3dfe2e43fa2c8c0800000000000000
+      internalID: -3980426478961568800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_80
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1075
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39167b3bae0b7380800000000000000
+      internalID: -8972561704005789382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1076
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3330b018e76a7a0800000000000000
+      internalID: -6366261930540977187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_82
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1076
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b1b5939b65eb1f0800000000000000
+      internalID: -1027288311462683774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_83
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1076
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a0988f2310c42a0800000000000000
+      internalID: -6752020422905492959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_84
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1074
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c08cd9a39fa0b00800000000000000
+      internalID: 795722314334866580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_85
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1072
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4529c8e30b46f3ca0800000000000000
+      internalID: -6034994267526753708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_86
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1071
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683ec1ba974954fb0800000000000000
+      internalID: -4664158588789529722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_87
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1022
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fac4529064f5740800000000000000
+      internalID: 5142906304574828326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_88
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1019
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aca20f524f80a50800000000000000
+      internalID: 6487703707007502983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_89
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1015
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f324742af358de10800000000000000
+      internalID: 2222618749925860345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_90
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1017
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785bf4fccf7598e40800000000000000
+      internalID: 5659151150089221511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_91
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1015
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f1e7b8ee81c5a60800000000000000
+      internalID: 7664028078699323283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_92
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1016
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812b8daccb4a88c90800000000000000
+      internalID: -7167297676196138472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_93
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1018
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1f651398effdf90800000000000000
+      internalID: -6926537836680777278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_94
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1018
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f097977ff2cff10800000000000000
+      internalID: 2304769849248255835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_95
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 972
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc732202744a17c0800000000000000
+      internalID: -4099889254314574627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_96
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 970
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59e5013e75a18c80800000000000000
+      internalID: -8322188674997032609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_97
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 966
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cc4cda87e578ce0800000000000000
+      internalID: -1403048886498178041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_98
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 965
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af7f9275dd3aea10800000000000000
+      internalID: 1939430576496803750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_99
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 963
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6250787d63a00f60800000000000000
+      internalID: 7998572628777390701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_100
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 963
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a035af3d7071ae0800000000000000
+      internalID: -1578784537350829422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_101
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 960
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d122bf5b0418f8290800000000000000
+      internalID: -7885942307571424739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_102
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 960
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d47dba1346b3640800000000000000
+      internalID: 5060748770780073221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_103
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 916
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c34c41537594b60800000000000000
+      internalID: 7730806120851455047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_104
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 915
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baa926aa4c4373e0800000000000000
+      internalID: -2057216721279145288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 912
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b979aa28f9c22a880800000000000000
+      internalID: -8601263274720585829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_106
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 910
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfb9c2768c9d99c0800000000000000
+      internalID: -3918803999477088290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_107
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 906
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a032559d2318da0800000000000000
+      internalID: -5944414124134692340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_108
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 904
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41d04352de741810800000000000000
+      internalID: 1735151198249472330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_109
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 906
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e98c31fbd9d996b0800000000000000
+      internalID: -5288956748701595166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_110
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 906
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a36cc12590ea8d0800000000000000
+      internalID: -2833316867294742012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_111
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 857
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7544974cc86a5ce60800000000000000
+      internalID: 7981969038105986135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_112
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 859
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d5f8bc68a108130800000000000000
+      internalID: 3566880071120543079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_113
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 856
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5227df81e8e9f60800000000000000
+      internalID: 8043022222512760227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_114
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 854
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae315b57da5fb5e0800000000000000
+      internalID: -1891693437475799389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_115
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 857
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b0bdf78259b9e40800000000000000
+      internalID: 5664284957524822934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_116
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 857
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081ebb57f9bbe6f20800000000000000
+      internalID: 3417875460770226560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_117
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 851
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778e63a8201aea040800000000000000
+      internalID: 4660839696655902839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_118
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 852
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf986a35952f4e00800000000000000
+      internalID: 1031084162551422927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_119
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 848
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e459bb543d626d0800000000000000
+      internalID: -3015490604024639943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_120
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 802
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cf3755ae219cba0800000000000000
+      internalID: -6068298225239720802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_121
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 801
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb93efff3170b510800000000000000
+      internalID: 1562873590387547110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_122
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 805
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed248981ac6b86940800000000000000
+      internalID: 5289678741458928350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_123
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 801
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b25ba15526891f20800000000000000
+      internalID: 3393891289042473648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_124
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 801
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e34e9d1f7c9a560800000000000000
+      internalID: 7325606110451482266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_125
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 801
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913d408f26e2b7fa0800000000000000
+      internalID: -5801992692334013671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_126
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 801
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da30b189cf33e4fa0800000000000000
+      internalID: -5814652908912049235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_127
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 801
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a7e7952bebce2e0800000000000000
+      internalID: -2095090053419206006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_128
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 745
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ed69ac72b03b690800000000000000
+      internalID: -7587708681658638776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_129
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 745
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d275e712df4d41e70800000000000000
+      internalID: 9085120531966875437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_130
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 745
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ab31110b942e0d0800000000000000
+      internalID: -3395070148534355341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_131
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 742
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4faf011b6c9cee0800000000000000
+      internalID: -1240241758567467805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_132
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 743
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ada748251ae7be0800000000000000
+      internalID: -1477566251948909934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_133
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 742
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e561db272b79d8b0800000000000000
+      internalID: -5126931292615514654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_134
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 745
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3d9a5f255df2be0800000000000000
+      internalID: -1499745598605503577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_135
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 689
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaf7330acd625150800000000000000
+      internalID: 5859866779567258279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_136
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 690
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b859d44e47abe20800000000000000
+      internalID: 3367132195315878671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_137
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 693
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8718be16eaf15faa0800000000000000
+      internalID: -6127956884140097160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_138
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 686
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15406466acc43f8e0800000000000000
+      internalID: -1660899405386611631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_139
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 635
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e857c0e4e0ff970800000000000000
+      internalID: 8790760726029766235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_140
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 634
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f09c58c89ca4a40800000000000000
+      internalID: 5353312712460406642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_141
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 631
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1889d43348c4fe70800000000000000
+      internalID: 9148156934071355421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_142
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 630
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6e401d3296ad2a0800000000000000
+      internalID: -6711936692090771740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_143
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 629
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad25c71b4a795d20800000000000000
+      internalID: 3267777467573939620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_144
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 627
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb6e20b20da7fef0800000000000000
+      internalID: -74400641770951736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_145
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 625
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d3644807a18ab50800000000000000
+      internalID: 6604557924096687515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_146
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 568
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385930f5918714960800000000000000
+      internalID: 7584475297832211843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 568
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfeb52ba2ec4fec0800000000000000
+      internalID: -3533973124802678861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_148
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 571
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662130abd1f799c40800000000000000
+      internalID: 5519582583970796134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_149
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 521
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ac771f1c88d3300800000000000000
+      internalID: 233493122254359065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_150
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 520
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21314174e532619e0800000000000000
+      internalID: -1651093325558312174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_151
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 514
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32168a84b00716fb0800000000000000
+      internalID: -4656317345958436573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_152
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 515
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2095a917a2ec8a450800000000000000
+      internalID: 6100352376963225858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_153
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 506
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a046ad668cb8880800000000000000
+      internalID: -8607565918712362347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_154
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 450
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6984d3bf58629150800000000000000
+      internalID: 5877875223920150895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_155
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 457
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6acae905ec03660800000000000000
+      internalID: 7363612236405581478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_156
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 466
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5eae0fe43e584c0800000000000000
+      internalID: -4285769542184278534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_157
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 464
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b050c5e2fbf1a98a0800000000000000
+      internalID: -6297686222947220213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_158
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d931f7a859fe1dfc0800000000000000
+      internalID: -3471730412173192291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_159
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 471
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b252ed7eed9c9290800000000000000
+      internalID: -7882251600165449040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_160
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 469
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f000b674612487e0800000000000000
+      internalID: -1764248438650699529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_161
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 468
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98161e6a7076f720800000000000000
+      internalID: 2879612682885273757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_162
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 464
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a2ac9922f4564c0800000000000000
+      internalID: -4294939659600254377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_163
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 465
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06630a2ea51e5cba0800000000000000
+      internalID: -6069197142346418592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_164
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 466
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7491a67342769d550800000000000000
+      internalID: 6186088968416270663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_165
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 463
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f788b9f6be5648200800000000000000
+      internalID: 181381946865846399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_166
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 464
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2759e1771d22d590800000000000000
+      internalID: -7651003238230436050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_167
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 385
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660d2a70bda2bd990800000000000000
+      internalID: -7360242045792628634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_168
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 388
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490c4905deb14ded0800000000000000
+      internalID: -2390254796153765740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_169
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 394
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e23c2044c65515d0800000000000000
+      internalID: -3092470168229760282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_170
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 396
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8dcd0e7f90a8680800000000000000
+      internalID: -8752171965606995731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_171
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 385
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d339624dc9514e10800000000000000
+      internalID: 2180122432741389264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_172
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 393
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d4b8c7264e28b80800000000000000
+      internalID: -8393895643817751201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_173
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 379
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36501764af4bf3c0800000000000000
+      internalID: -4324775449636874692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_174
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 379
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e523647a371bd4170800000000000000
+      internalID: 8164376809778328158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_175
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 330
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352b949cd7a440770800000000000000
+      internalID: 8576061494528684627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_176
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 329
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fcc3f445cbd7b00800000000000000
+      internalID: 828024976798699269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_177
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 329
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da50181898b9c050800000000000000
+      internalID: 5821386956731341522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_178
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 329
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c872f33cbd30220800000000000000
+      internalID: 2451044253844343830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_179
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 326
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2902257692026f590800000000000000
+      internalID: -7640884355588284270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_180
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 327
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ee3032fff7c2bd0800000000000000
+      internalID: -2653605346647216538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_181
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 331
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de28c5419b0519b90800000000000000
+      internalID: -7236914370366897427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_182
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 328
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb75d9f45251c550800000000000000
+      internalID: 6179310688651279350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_183
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 327
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368260ce413b0830800000000000000
+      internalID: 4038375705172674106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_184
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 274
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bb4b5230acebb40800000000000000
+      internalID: 5458021913285933839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_185
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 271
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f956376513515cf0800000000000000
+      internalID: -265339551647114760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_186
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 273
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95106091b4bb58c0800000000000000
+      internalID: -4009412368518867554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_187
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 270
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ff0771ca2628680800000000000000
+      internalID: -8754326234387644625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_188
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 274
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7003376463fbd1f0800000000000000
+      internalID: -1018953278115610501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_189
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 270
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e002e5069b9d1aa60800000000000000
+      internalID: 7683661829479735310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_190
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 217
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7872b54c09739100800000000000000
+      internalID: 113567509230286974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_191
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 208
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c718cbc7a7a67040800000000000000
+      internalID: 4645084404799510469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_192
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 209
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632e53740cb7b06c0800000000000000
+      internalID: -4176108163697352138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_193
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 203
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c82625217b3dd70800000000000000
+      internalID: 9066791764146424921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_194
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 201
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901ec94721b34bb00800000000000000
+      internalID: 843363980677013769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_195
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 208
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55d0659237012970800000000000000
+      internalID: 8728265466656642399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_196
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 211
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e75c4af2d20c0720800000000000000
+      internalID: 2813626972365412321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_197
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 213
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de747b6d3fed22570800000000000000
+      internalID: 8440553790506485741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_198
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 217
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c25258cacb004b70800000000000000
+      internalID: 8881111430746755783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_199
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 162
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c259eefa3759c28c0800000000000000
+      internalID: -4022676043043269332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_200
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 162
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fbbf8b0a7fa2ab0800000000000000
+      internalID: -5031937363962773717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_201
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 159
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a31969777e69400800000000000000
+      internalID: 330706123471534600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_202
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 161
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b65d93d69fad6b0800000000000000
+      internalID: -5270626166366704777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_203
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 165
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0010257dca10409d0800000000000000
+      internalID: -2809118425713868544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_204
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 169
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169a1aab7e0b0c4e0800000000000000
+      internalID: -1963374928218445471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_205
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 169
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0575ad6ac4946c330800000000000000
+      internalID: 3730749934888703824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_206
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 164
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aeff55c69c2dab0800000000000000
+      internalID: -4984700370409231732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_207
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 160
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7d50f54131b6b80800000000000000
+      internalID: -8400599701715036196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_208
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 161
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67edc72e2455cd930800000000000000
+      internalID: 4169301100794273398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_209
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 124
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f2ffa68bbb1af50800000000000000
+      internalID: 6890995305597054747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_210
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfed7863994de270800000000000000
+      internalID: 8281356187266314160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_211
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 119
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9b93946f03ff270800000000000000
+      internalID: 8286395673733609957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_212
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 122
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a2830894c95df80800000000000000
+      internalID: -8082382116748776899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_213
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 117
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa0919c94a3c34d0800000000000000
+      internalID: -3153581550485304583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_214
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 116
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99769151f2199d330800000000000000
+      internalID: 3736176997284013977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_215
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 122
+        width: 61
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f4f3b1b288e48a0800000000000000
+      internalID: -6318963508432122006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_216
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 121
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f745a2c8d03e29f0800000000000000
+      internalID: -491401601800124429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spyro sprite sheet 2_217
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 444
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90501f6b53e34e370800000000000000
+      internalID: 8350868009475179785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
